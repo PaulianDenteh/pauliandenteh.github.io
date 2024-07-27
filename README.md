@@ -1,1 +1,2 @@
 # RemedyFoundation
+Remedy Foundation is a non-profit organization dedicated to improving healthcare access and outcomes in remote and underserved communities in Africa. Our mission is to bridge the gap in healthcare disparities by providing quality medical care, education, and resources to those who need it most.
